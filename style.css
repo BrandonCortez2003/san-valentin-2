@@ -90,7 +90,7 @@ body {
 .btn a {
     text-decoration: none;
     color: white;
-    background: linear-gradient(135deg, #ff4e8a, #c21875);
+    background: linear-gradient(135deg, #8988e7, #3312ec);
     padding: 12px 28px;
     border-radius: 14px;
     font-weight: bold;
@@ -120,7 +120,7 @@ body {
     overflow: hidden;
     font-family: Arial, sans-serif;
 
-    background: linear-gradient(135deg,#ff4e8a,#ff6fa5,#ff9ec7,#ffd6e7);
+    background: linear-gradient(135deg,#1613e7,#284cee,#4c82e7,#9bbfee);
 }
 
 /* CONTENEDOR CENTRAL */
@@ -186,7 +186,7 @@ body {
     position: absolute;
     width: 80px;
     height: 80px;
-    background: #ff2e63;
+    background: #f54e4e;
     border-radius: 50%;
     z-index: 4;
 
@@ -204,7 +204,7 @@ body {
     cursor: pointer;
 }
 .letter::before {
-    content: "T❤B";
+    content: "❤";
 }
 /* contador */
 
